@@ -17,11 +17,21 @@
    <text>hi</text>
    <timestamp>031024 - 13:23:57</timestamp>
   </note>
+  <note name="Dogs are better than cats 03">
+   <text>hello!</text>
+   <timestamp>031024 - 18:03:28</timestamp>
+  </note>
  </topic>
  <topic name="Animal">
   <note name="Note_1">
    <text>Cats are better than dogs!</text>
    <timestamp>031024 - 13:22:13</timestamp>
+  </note>
+ </topic>
+ <topic name="Dogs">
+  <note name="Note_1">
+   <text>Dogs are nice!</text>
+   <timestamp>031024 - 18:04:13</timestamp>
   </note>
  </topic>
 </data>

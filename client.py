@@ -10,7 +10,7 @@ def add_note():
     text = input("Enter note text: ")
 
 
-    #Calling the server method to add the note with or without Wikipedia information
+    #Calling the server method to add the note 
     result = proxy.add_note(topic, text) 
     print(result)
 
